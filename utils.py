@@ -455,12 +455,11 @@ def send_mail(host, msg_content):
 
 
 if __name__ == "__main__":
-    # TODO
-
     parser = argparse.ArgumentParser()
-    # log_test()
     # parser.add_argument('--host', type=str, default="host")
     # parser.add_argument('--msg', type=str, default="")
     # args = parser.parse_args()
     # args = Map(vars(args))
+
+    # TODO
     # send_mail(args.host, args.msg)
